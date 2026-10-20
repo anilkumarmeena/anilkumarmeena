@@ -9,20 +9,20 @@
 </div>
 
 Tech Head at **[Slike](https://sli.ke)**, the video platform of **Times Internet**. I build **AI-native media
-infrastructure**: **autonomous agents** that clip, reframe and dub video, **AI analysts** that query live data over
-**MCP**, and **real-time voice agents**, on streaming and data systems serving **millions of viewers**.
+infrastructure**: **video agents** that edit, localize and distribute on their own, **data science agents** that turn
+audience data into decisions, and **conversational agents**, on a **live streaming and conferencing** platform serving
+**millions of viewers**.
 
 🎤 **Building now: [Alfred](https://github.com/anilkumarmeena/alfred)**, an autonomous voice agent on your own computer:
 on-device speech, Claude for reasoning, background coding and research, and a [phone app](https://github.com/anilkumarmeena/alfred-app).
 
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-7c3aed?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Video_AI-0ea5e9?style=flat-square" alt="Video AI">
+  <img src="https://img.shields.io/badge/Data_Science-6366f1?style=flat-square" alt="Data Science">
+  <img src="https://img.shields.io/badge/Conversational_AI-10b981?style=flat-square" alt="Conversational AI">
+  <img src="https://img.shields.io/badge/Live_Streaming-ef4444?style=flat-square" alt="Live Streaming">
+  <img src="https://img.shields.io/badge/Real--time_Conferencing-f59e0b?style=flat-square&logo=webrtc&logoColor=white" alt="Real-time Conferencing">
   <img src="https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/LLMs_·_RAG-0ea5e9?style=flat-square" alt="LLMs and RAG">
-  <img src="https://img.shields.io/badge/Voice_AI-10b981?style=flat-square" alt="Voice AI">
-  <img src="https://img.shields.io/badge/WebRTC_·_HLS-ef4444?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC and HLS">
-  <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
